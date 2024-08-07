@@ -1,7 +1,7 @@
 window.config = {
   logo: "https://img2.imgtp.com/2024/03/11/YzU8iDJp.png", // 网站logo
-  title: "buddy免费主题", // 网站标题
-  host: "https://xxxx.com/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
+  title: "mantis", // 网站标题
+  host: "https://sub.heycloud.club/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
     title: "选择最适合你的订阅计划", // 套餐页标题
     description:
